@@ -68,3 +68,17 @@ Revenue Recovered
 Audit Trail
 
 ![RecoverAI Architecture](architecture.png)
+
+# 📸 Product Screenshots
+
+## Recovery Dashboard
+
+![RecoverAI Dashboard](screenshots/dashboard.png)
+
+## AI Recovery Decision
+
+![AI Recovery Decision](screenshots/ai-decision.png)
+
+## Audit Trail
+
+![RecoverAI Audit Trail](screenshots/audit-trail.png)
