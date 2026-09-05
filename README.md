@@ -66,3 +66,5 @@ Recovery Outcome
 Revenue Recovered
       ↓
 Audit Trail
+
+![RecoverAI Architecture](architecture.png)
